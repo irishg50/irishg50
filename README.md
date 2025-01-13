@@ -1,8 +1,8 @@
 # Hi there 👋 I'm George Irish
 
-## AI Solutions Developer for Nonprofit & Social Impact
+## AI Solutions Developer for Nonprofit & Public Sector Organizations
 
-I specialize in developing AI applications that empower nonprofit organizations and amplify their social impact. My focus is on creating practical, ethical AI solutions that enhance fundraising capabilities, streamline operations, and deliver data-driven insights for charitable organizations.
+I specialize in developing AI applications that empower nonprofit and public sector organizations to amplify their impact. My focus is on creating practical, ethical AI solutions that enhance fundraising capabilities, streamline operations, and deliver data-driven insights for organizations across the social service sector.
 
 ### 🎯 Core Focus Areas
 
