@@ -38,8 +38,8 @@ An AI content generation studio specifically designed for nonprofit communicatio
 - **Generative AI**: OpenAI, Claude, Gemini, Llama
 - **Analytics**: pandas, scikit-learn, Plotly, Streamlit
 - **Infrastructure**: Render, Together AI, PostgreSQL
-- ** Enterprise Cloud**:  AWS, Google Cloud, Azure
-- **IDE**: Cursor, PyCharm
+- **Enterprise Cloud**: AWS, Google Cloud, Azure 
+- **IDE**: Cursor, PyCharm, Jupyter
 
 ### 📊 Impact
 
