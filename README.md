@@ -4,31 +4,35 @@ AI Solutions Developer for Nonprofit & Social Impact
 I specialize in developing AI applications that empower nonprofit organizations and amplify their social impact. My focus is on creating practical, ethical AI solutions that enhance fundraising capabilities, streamline operations, and deliver data-driven insights for charitable organizations.
 🎯 Core Focus Areas
 
-Generative AI Applications: Building solutions for automated documentation processing and intelligent content creation to reduce administrative overhead
-Fundraising Analytics: Developing ML-powered dashboards that analyze donor behavior, campaign performance, and provide actionable insights
-Process Automation: Creating AI tools that streamline nonprofit operations and maximize resource utilization
+Generative AI Applications: 
+Building solutions for automated documentation processing and intelligent content creation to reduce administrative overhead
+
+Fundraising Analytics: 
+Developing ML-powered dashboards that analyze donor behavior, campaign performance, and provide actionable insights
+
+Process Automation: 
+Creating AI tools that streamline nonprofit operations and maximize resource utilization
 
 🔭 Featured Projects
 
-Digital Donor Personas Dashbaord: An ML-powered dashboard analyzing fundraising patterns and donor behavior to generate personalized engagement strategies.
-
-Processes multi-channel campaign data to predict donor retention
-Generates AI-driven recommendations for donor engagement
-Visualization of key fundraising metrics and trends
+Digital Donor Personas Dashbaord: 
+An ML-powered dashboard analyzing fundraising patterns and donor behavior to generate personalized engagement strategies.
+- Processes multi-channel campaign data to predict donor retention
+- Generates AI-driven recommendations for donor engagement
+- Visualization of key fundraising metrics and trends
 https://pilot.fundraisingwithai.com/donor-personas/dashboard-guide
 
-DocAssess AI: A document processing pipeline using Agentic and Generative AI to auto-process document libraries for review and reporting.
+DocAssess AI: 
+A document processing pipeline using Agentic and Generative AI to auto-process document libraries for review and reporting.
+- Automated extraction of key information from various document formats
+- Smart summarization and insight generation
+- Bespoke output formats and CRM integrations
 
-Automated extraction of key information from various document formats
-Smart summarization and insight generation
-Bespoke output formats
-
-
-GoodWriter.org: An AI content generation toolkit specifically designed for nonprofit communications.
-
-Customized LLM for mission-aligned content creation
-Multi-channel content adaptation
-Impact story generation from program data
+GoodWriter.org: 
+An AI content generation studio specifically designed for nonprofit communications and fundraising agencies.
+- Customized LLM for mission-aligned content creation
+- Multi-channel content adaptation
+- Fundraising appeal generation applying domain expertise and data insights
 https://www.goodwriter.org/pro
 
 
